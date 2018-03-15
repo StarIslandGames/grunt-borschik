@@ -31,7 +31,7 @@
     "borschik"
   ],
   "dependencies": {
-    "borschik": "1.0.x",
+    "borschik": "^2.0.0",
     "q": "~0.9.7"
   }
 }
